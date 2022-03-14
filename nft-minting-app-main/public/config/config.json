@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xD4a06032f4f7630475b0cA1cb42fb7cFA34a52ce",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xD4a06032f4f7630475b0cA1cb42fb7cFA34a52ce",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Marvellous Angels NFT",
+  "SYMBOL": "Angel",
+  "MAX_SUPPLY": 20000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/suryabhai",
+  "SHOW_BACKGROUND": true
+}
